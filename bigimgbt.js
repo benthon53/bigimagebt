@@ -1,3 +1,4 @@
+console.log("Le script bigimgbt.js est chargé et exécuté");
 /*
  Leaflet.BigImage (https://github.com/pasichnykvasyl/Leaflet.BigImage).
  (c) 2020, Vasyl Pasichnyk, pasichnykvasyl (Oswald)
